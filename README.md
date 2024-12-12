@@ -1,2 +1,1 @@
-# manish
-readme
+# Diwali 2024
